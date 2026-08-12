@@ -10,3 +10,4 @@ Repositorio del curso de Metodos Estadisticos Agosto 2026 del programa de Ingeni
 + Preparar area de trabajo
 + Crear cuenta de GitHub
 + 
+
