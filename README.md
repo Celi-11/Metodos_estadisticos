@@ -1,0 +1,2 @@
+# Metodos_estadisticos
+Curso_de_metodos_estadisticos_2026
