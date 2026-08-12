@@ -7,3 +7,6 @@ Repositorio del curso de Metodos Estadisticos Agosto 2026 del programa de Ingeni
 
 ## Contenido del Semestre
 🎯 ** Semana 2 Inicio del Semestre
++ Preparar area de trabajo
++ Crear cuenta de GitHub
++ 
