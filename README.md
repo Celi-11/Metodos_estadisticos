@@ -1,2 +1,9 @@
 # Metodos_estadisticos
-Curso_de_metodos_estadisticos_2026
+## Licenciatura En_Ingenieria Forestal
+
+Repositorio del curso de Metodos Estadisticos Agosto 2026 del programa de Ingenieria Forestal
+
+## Contenido Del Semestre
+
+## Contenido del Semestre
+🎯 ** Semana 2 Inicio del Semestre
