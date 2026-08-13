@@ -1,5 +1,5 @@
 # Metodos_estadisticos :mushroom:
-## Licenciatura En_Ingenieria Forestal:evergreen_tree:
+## Licenciatura En_Ingenieria Forestal :evergreen_tree:
 
 Repositorio del curso de Metodos Estadisticos Agosto 2026 del programa de Ingenieria Forestal
 
