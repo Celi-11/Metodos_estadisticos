@@ -17,11 +17,21 @@ Matrícula: 2274723
 
 Fecha 19/09/2026
 
-- Importar datos para trabajar en R.
+Actividades realizadas durante el curso
 
-- Usao de la funcion "read.csv" para importar datos en forma de csv.
+-Operaciones y gastos: aplicación de cálculos matemáticos, trabajo con vectores y creación de gráficas de barras.
 
-- Organización y manejo de datos.
+-Estadística descriptiva: obtención de medidas estadísticas como el promedio, la varianza y la desviación estándar.
+
+-Correlación y regresión lineal: estudio de la relación entre diferentes variables y construcción de modelos matemáticos.
+
+-Importación de datos: ingreso de información desde archivos CSV y organización de bases de datos.
+
+-Representación gráfica de datos: creación de diagramas de caja (boxplots) y comparación de distintos tratamientos.
+
+-Análisis de correlaciones: estudio de la relación entre variables ambientales mediante gráficas de dispersión.
+
+-Análisis de anillos de crecimiento: comparación de mediciones de crecimiento utilizando herramientas y pruebas estadísticas.
 
 ## Organización del repositorio
 
