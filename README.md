@@ -11,6 +11,7 @@ Matrícula: 2274723
 🎯 Semana 2-Inicio del Semestre
 * Preparar area de trabajo
 * Crear cuenta de GitHub
+
 🎯 Semana 3-Importación de datos
 Fecha 19/09/2026
 *Importar datos para trabajar en R.
