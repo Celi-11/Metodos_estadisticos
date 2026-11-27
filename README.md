@@ -2,7 +2,9 @@
 ## Licenciatura En_Ingenieria Forestal :evergreen_tree:
 
 Repositorio del curso de Métodos Estadísticos correspondiente al semestre agosto 2026 del programa de Ingenieria Forestal
+
 Alumno: Celina Yazmín Puente Uribe
+
 Matrícula: 2274723
 
 ## Contenido Del Semestre
