@@ -33,6 +33,11 @@ Scripts: Contiene los códigos y ejercicios desarrollados en R.
 
 Tareas: Contiene los trabajos y actividades correspondientes a la materia.
 
+## Gráfica de contribuciones
+
+A continuación se muestra la gráfica de contribuciones realizadas durante el desarrollo del repositorio.
+
+![Gráfica de contribuciones](grafica_contribuciones.png)
 
 
 
