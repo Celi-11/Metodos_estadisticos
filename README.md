@@ -23,9 +23,13 @@ Fecha 19/09/2026
 *Organización y manejo de datos.
 
 ## Organización del repositorio
+
 El repositorio está organizado en 3 carpetas principales.
+
 Laboratorios: Contiene los archivos PDF de las prácticas y laboratorios realizados durante el curso.
+
 Scripts: Contiene los códigos y ejercicios desarrollados en R.
+
 Tareas: Contiene los trabajos y actividades correspondientes a la materia.
 
 
